@@ -1,3 +1,9 @@
+Original repository.  
+https://github.com/seanmonstar/warp.  
+
+[rust] warp.   
+https://docs.google.com/document/d/1No3Fii5mCXZdGHKNawdd_Lzbbf1lLql-8UinvG6Ssz0/edit.   
+
 # warp
 
 [![crates.io](https://img.shields.io/crates/v/warp.svg)](https://crates.io/crates/warp)
